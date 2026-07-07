@@ -1,11 +1,12 @@
-Before the class started, these were my core books.
+Before the class began, these were my core books.
 
-During the course, I studied them because they taught me mathematics for machine learning and its applications.
+During the course, I studied them because they taught me machine learning and its applications, which were my main focus.
 
 1. Introduction to Machine Learning
 2. Machine Learning and its Applications
 
-After the class started I did not know feature engineering and our instrutor SImaram explained and I got this book  to learn
-more but I study once a while because it is my core books.
 
-1. The Art of Feature Engineering Essentials for Machine Learning
+
+After the class started, I did not know about feature engineering. Our instructor, Simaram, explained it, so I got this book to learn more. I study it once in a while because it is one of my core books.
+
+1. The Art of Feature Engineering: Essentials for Machine Learning
