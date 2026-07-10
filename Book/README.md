@@ -10,3 +10,6 @@ During the course, I studied them because they taught me machine learning and it
 After the class started, I did not know about feature engineering. Our instructor, Simaram, explained it, so I got this book to learn more. I study it once in a while because it is not one of my core books.
 
 1. The Art of Feature Engineering: Essentials for Machine Learning
+
+I had to read **The Markdown Guide** in order to learn the lightweight markup language that we use it formatting elements oto plaintext text document Github
+and Visual Studio Code.
