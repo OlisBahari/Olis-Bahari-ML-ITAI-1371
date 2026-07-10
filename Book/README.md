@@ -12,3 +12,4 @@ After the class started, I did not know about feature engineering. Our instructo
 
 I had to read **The Markdown Guide** in order to learn the lightweight markup language that we use it formatting elements oto plaintext text document Github
 and Visual Studio Code.
+1. **The Markdown Guide** 
