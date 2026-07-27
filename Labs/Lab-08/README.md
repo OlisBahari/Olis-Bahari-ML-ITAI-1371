@@ -1,15 +1,16 @@
-# Filename......: L08_OlisBahari_ITAI1371
-# Language......: Python
-# Tools.........: Visual Studio Code (VSC)
-#               : Google Colab
-# Class.........: ITAI 1371 Introduction to Machine Learning
-# Semester......: Summer 2026
-# Class Type....: Online
-# Instructor....: Sitaram Ayyagari
-# Student.......: Olis Bahari
-# Version.......: V1.0
-# Purpose.......: Demonstrate bias-variance tradeoff using polynomial regression
-#                 and learning curves
+Filename......: L08_OlisBahari_ITAI1371
+Language......: Python
+Tools.........: Visual Studio Code (VSC)
+               : Google Colab
+               
+Class.........: ITAI 1371 Introduction to Machine Learning
+Semester......: Summer 2026
+Class Type....: Online
+Instructor....: Sitaram Ayyagari
+Student.......: Olis Bahari
+Version.......: V1.0
+Purpose.......: Demonstrate bias-variance tradeoff using polynomial regression
+                 and learning curves
 
 ### **[Q1]** 
 The degree 1 model is underfitting because it is too simple to capture the curved sine-wave pattern in the data.
