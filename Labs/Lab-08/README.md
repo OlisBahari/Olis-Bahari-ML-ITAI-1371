@@ -1,3 +1,9 @@
+# Module 08 Lab - The Bias-Variance Tradeoff
+
+**Objective:** To understand and visualize the concepts of **overfitting**, **underfitting**, and the **bias-variance tradeoff**, which are central to building models that generalize well to new data.
+
+**In this lab, you will train models of varying complexity and plot their performance to see these concepts in action.**
+
 Filename......: L08_OlisBahari_ITAI1371
 
 Language......: Python
