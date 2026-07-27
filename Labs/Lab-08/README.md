@@ -1,9 +1,3 @@
-# Module 08 Lab - The Bias-Variance Tradeoff
-
-**Objective:** To understand and visualize the concepts of **overfitting**, **underfitting**, and the **bias-variance tradeoff**, which are central to building models that generalize well to new data.
-
-**In this lab, you will train models of varying complexity and plot their performance to see these concepts in action.**
-
 Filename......: L08_OlisBahari_ITAI1371
 
 Language......: Python
@@ -25,6 +19,15 @@ Version.......: V1.0
 
 Purpose.......: Demonstrate bias-variance tradeoff using polynomial regression
                  and learning curves
+
+## 📝 Knowledge Check
+
+**Instructions:** Answer the following questions in this markdown cell.
+
+1.  **In the first plot of the three models, which model (degree 1, 4, or 15) is underfitting, which is overfitting, and which is a good fit? Explain your reasoning.**
+2.  **Looking at the learning curve for the underfitting model, what do you observe about the training and cross-validation scores?** What does this tell you?
+3.  **Looking at the learning curve for the overfitting model, what do you observe about the gap between the training and cross-validation scores?** What does this tell you?
+
 
 ### **[Q1]** 
 The degree 1 model is underfitting because it is too simple to capture the curved sine-wave pattern in the data.
