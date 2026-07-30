@@ -5,7 +5,7 @@ I am a retired control engineer with a longstanding interest in applying emergin
 
 My professional background is available at http://OlisBahari.com.
 
-My company, RedStarCollegetion (http://RedStarCollegetion.com), offers services to other organizations.
+My company, Red Star Automation (http://RedStarAutomation.com), offers services to other organizations.
 
 I am currently enrolled in formal AI courses at HCC, including the following:
 
