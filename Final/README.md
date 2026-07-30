@@ -1,4 +1,4 @@
-##Part 1: Project Definition
+## Part 1: Project Definition
 
 This project aims to build and compare machine learning models that classify movie reviews as either positive or negative. It uses the NLTK Movie Reviews dataset, looks at the text and class distribution, preprocesses the reviews, turns the text into TF-IDF features, trains several classifiers, and checks how well they perform.
 
@@ -23,7 +23,7 @@ To prepare the reviews, the text is changed to lowercase and any URLs, HTML tags
 TF-IDF is trained using only the training data, and then the same transformation is applied to the test data. This approach helps make sure that no information from the test set influences the model during training.
 
 
-##Part 4: Modeling
+## Part 4: Modeling
 
 We train three classification algorithms using the same TF-IDF training matrix to ensure a fair comparison of their performance.
 1. Logistic Regression
@@ -43,7 +43,7 @@ This last section looks at examples that the best-performing model got wrong. By
 
 
 
-##Part 6: Conclusion
+## Part 6: Conclusion
 
 This project shows a full supervised text-classification process. Movie reviews are cleaned, turned into TF-IDF features, and then three machine-learning classifiers are trained and tested using the same stratified train/test split.
 
