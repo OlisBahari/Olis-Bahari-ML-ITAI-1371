@@ -17,6 +17,8 @@ For the Individual Portfolio project, I organized all labs, assignments, and exa
 This is the course's basic syllabus or materials that would be covered.
 <img width="473" height="388" alt="image" src="https://github.com/user-attachments/assets/35d8a2bb-5909-423d-b666-435dc8cc62cd" />
 
+<img width="782" height="239" alt="image" src="https://github.com/user-attachments/assets/aa71cf7c-cfac-4ca5-9c75-964455bff2b4" />
+
 
 I have completed the following labs and assignments:
 
