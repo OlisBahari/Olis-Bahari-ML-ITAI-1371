@@ -14,6 +14,10 @@ I am currently enrolled in formal AI courses at HCC, including the following:
 
 For the Individual Portfolio project, I organized all labs, assignments, and exams in a structured folder for employer review.
 
+This is the course's basic syllabus or materials that would be covered.
+<img width="473" height="388" alt="image" src="https://github.com/user-attachments/assets/35d8a2bb-5909-423d-b666-435dc8cc62cd" />
+
+
 I have completed the following labs and assignments:
 
 <img width="857" height="408" alt="image" src="https://github.com/user-attachments/assets/13f2d21c-9310-437c-9f38-8fb3b8a47616" />
