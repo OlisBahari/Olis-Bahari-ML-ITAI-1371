@@ -16,7 +16,7 @@ The best model is chosen based on the weighted F1-score. The project also looks 
 This section loads the NLTK Movie Reviews dataset, checks its structure and data quality, examines class balance and review lengths, and explores frequently occurring words in positive and negative reviews.
 
 
-##Part 3: Preprocessing & Feature Extraction
+## Part 3: Preprocessing & Feature Extraction
 
 To prepare the reviews, the text is changed to lowercase and any URLs, HTML tags, mentions, digits, or extra characters are removed. After cleaning, the data is divided into training and testing sets.
 
