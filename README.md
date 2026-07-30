@@ -4,6 +4,7 @@ The course was taught by Professor Sitaram Ayyagari.
 I am a retired control engineer with a longstanding interest in applying emerging technologies, including Fuzzy Logic and Expert Systems.
 
 My professional background is available at http://OlisBahari.com.
+
 My company, RedStarCollegetion (http://RedStarCollegetion.com), offers services to other organizations.
 
 I am currently enrolled in formal AI courses at HCC, including the following:
