@@ -5,7 +5,7 @@ I made a simple Excel spreadsheet to keep track of the lab sessions, assignments
 I keep a record of the scores and grades for each section as well as the final grade.
 
 
-
+## Syllaubus
 I also prepare a PowerPoint presentation to display the course syllabus.
 
 
