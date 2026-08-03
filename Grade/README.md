@@ -1,3 +1,4 @@
+## Grade
 I made a simple Excel spreadsheet to keep track of the lab sessions, assignments, midterm, and final project.
 
 
