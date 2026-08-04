@@ -23,6 +23,7 @@ I have completed the following labs:
 <img width="439" height="284" alt="image" src="https://github.com/user-attachments/assets/c17323a4-1b52-4e19-88c1-1a9f517c419b" />
 
 I have completed the following assignment:
+
 <img width="444" height="54" alt="image" src="https://github.com/user-attachments/assets/b25b453c-b4bf-4356-9146-e98abca2c458" />
 
 These are the rest of the projects and tasks in the class:
