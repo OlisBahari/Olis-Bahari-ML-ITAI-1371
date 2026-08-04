@@ -1,1 +1,78 @@
+//
+// AI & Python Environment Setup Installation
+//
 
+// There are three options for local and cloud-based installations.
+
+The following environments were installed on three different Laptops:
+[Environment Packages]
+1.  Google Colab (Just tested because it is cloud-based)
+2A. Jupyter Lab
+2B. Jupyter Notebook
+3.  Visual Studio Code (VSC)
+
+[Laptop]
+1. Lenovo T470, Primary
+2. Lenovo T470S, Secondary
+3. Lenovo T490S, Tertiary
+
+[Option 1] 
+[Google Colab]
+1. Go to colab.research.google.com
+2. Sign in with your Google account
+3. Click "New Notebook" 
+4. You are ready to go! Libraries are pre-installed
+
+[Option 2]
+[Local Jupyter Notebook]
+1. Install Python 3.10.8
+2. pip install jupyter
+3. pip install pandas
+4. pip install numpy
+5. pip install matplotlib
+6. pip install scikit-learn
+7. pip install seaborn
+8. Run Jupyter notebook 
+
+[Option 3]
+[VS Code & Python & etc.] 
+1. Download VS Code from code.visualstudio.com
+2. Install Python   from python.org/downloads/
+3. pip install pandas
+4. pip install numpy
+5. pip install matplotlib
+6. pip install scikit-learn
+7. pip install seaborn
+8. Run a simple code
+
+// Install Jupyter Notebook
+pip install notebook
+jupyter notebook
+
+// Install Jupyter Lab
+pip install jupyterlab
+jupyter lab
+
+// How to run Jupyter Lab
+// worked on Laptop T470
+// did not work on Laptop Lenovo T490S
+Jupyter lab
+// worked on Laptop Lenovo T490S
+python -m jupyter lab 
+
+// Testing Installation
+// Tested OK  on Laptop Lenovo T470  (Home, Primary)
+// Not Tested on Laptop Lenovo T470S (Home, Secondary)
+// Tested OK  on Laptop Lenovo T490S (School)
+
+python --version
+code --version
+pip show jupyter
+pip show notebook
+pip show Jupyter notebook
+pip show jupyterlab
+pip show seaborn
+
+//Note
+// Upgrade pip
+pip install --upgrade pip
