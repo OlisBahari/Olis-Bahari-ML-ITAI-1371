@@ -22,13 +22,8 @@ However, accuracy alone does not provide a comprehensive assessment. The classif
 
 Overall, the model demonstrated satisfactory performance, though it is essential to consider both its strengths and limitations. Given additional time, I would pursue further feature engineering and compare Logistic Regression with alternative models such as Decision Trees or Random Forests to potentially improve predictive accuracy.
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0bb8c4d5-db9b-4167-aae0-6198ab7543b1" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f3c9e717-76e7-4ba6-afdb-2148fecc831c" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1c5c0066-6dfb-476e-9a8d-55b950363012" />
-
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/84121fa9-52c7-4876-ad41-2568e0774757" />
-
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d9a17613-4b25-4fe4-8ba3-5abaede2029f" />
 
 
 
