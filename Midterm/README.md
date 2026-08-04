@@ -1,8 +1,8 @@
-Purpose.......: Complete Machine Learning workflow load data, EDA, data preparation,
+Purpose: Complete Machine Learning workflow: load data, EDA, data preparation,
 modeling, and evaluation
 
 
-Midterm Ptoject Conclusion
+Midterm Project Conclusion
 
 The primary objective of this project was to develop a machine learning model to predict Titanic passenger survival using variables such as passenger class, gender, age, family size, fare, and embarkation point.
 
