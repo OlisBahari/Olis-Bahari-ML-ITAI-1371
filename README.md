@@ -20,11 +20,6 @@ This is the course's basic syllabus or materials that would be covered.
 
 I have completed the following labs and assignments:
 
-<img width="857" height="408" alt="image" src="https://github.com/user-attachments/assets/13f2d21c-9310-437c-9f38-8fb3b8a47616" />
-
-Summary of Work and Grading System Is:
-<img width="791" height="172" alt="image" src="https://github.com/user-attachments/assets/fb5bb2b8-5500-4567-bd03-619e9019fc57" />
-
 
 
 
