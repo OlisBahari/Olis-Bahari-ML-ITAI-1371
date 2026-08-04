@@ -24,6 +24,13 @@ Overall, the model demonstrated satisfactory performance, though it is essential
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f3c9e717-76e7-4ba6-afdb-2148fecc831c" />
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7ab7998d-fc52-4eee-a56e-15bd59a5259c" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fe29f51f-9199-439c-a271-098622afa85b" />
+
+
+
+
 
 
 
