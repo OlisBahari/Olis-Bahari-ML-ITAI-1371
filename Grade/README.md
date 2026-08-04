@@ -7,7 +7,3 @@ I keep a record of the scores and grades for each section as well as the final g
 
 ## Syllaubus
 I also prepare a PowerPoint presentation to display the course syllabus.
-
-
-
-
