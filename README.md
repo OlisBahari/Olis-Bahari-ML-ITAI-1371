@@ -19,6 +19,7 @@ This is the course's basic syllabus or materials that would be covered.
 <img width="473" height="388" alt="image" src="https://github.com/user-attachments/assets/35d8a2bb-5909-423d-b666-435dc8cc62cd" />
 
 I have completed the following labs and assignments:
+<img width="439" height="284" alt="image" src="https://github.com/user-attachments/assets/c17323a4-1b52-4e19-88c1-1a9f517c419b" />
 
 
 
