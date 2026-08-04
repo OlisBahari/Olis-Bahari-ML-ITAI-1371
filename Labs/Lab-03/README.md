@@ -13,8 +13,3 @@ By the end of this lab, you will be able to:
 - Understanding of basic data operations and visualization
 - Access to your GitHub repository for saving work
 
----
-
-## Part 1: Understanding Types of Machine Learning
-
-Machine learning can be categorized into three main types. Let's explore each with practical examples.
