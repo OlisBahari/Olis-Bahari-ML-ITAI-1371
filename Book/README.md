@@ -4,7 +4,8 @@ During the course, I studied them because they taught me machine learning and it
 
 1. **Introduction to Machine Learning**
 
-![Uploading image.png…]()
+<img width="648" height="808" alt="image" src="https://github.com/user-attachments/assets/f0457217-6ef2-4ee4-a192-4cbd87e587f1" />
+
 
 3. **Machine Learning and its Applications**
 
