@@ -16,6 +16,8 @@ After the class started, I did not know about feature engineering. Our instructo
 
 1. **The Art of Feature Engineering: Essentials for Machine Learning**
 
+<img width="541" height="830" alt="image" src="https://github.com/user-attachments/assets/53cd0088-2451-44a3-927b-d72c020adf22" />
+
 I had to read **The Markdown Guide** in order to learn the lightweight markup language that we use for formatting elements in plaintext text documents on GitHub
 and Visual Studio Code.
 1. **The Markdown Guide**
