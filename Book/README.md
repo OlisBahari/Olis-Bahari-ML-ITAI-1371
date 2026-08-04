@@ -3,6 +3,7 @@ Before the class began, these were my core books.
 During the course, I studied them because they taught me machine learning and its applications, which were my main focus.
 
 1. **Introduction to Machine Learning**
+
 ![Uploading image.png…]()
 
 3. **Machine Learning and its Applications**
