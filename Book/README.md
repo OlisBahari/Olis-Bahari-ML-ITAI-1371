@@ -9,7 +9,8 @@ During the course, I studied them because they taught me machine learning and it
 
 3. **Machine Learning and its Applications**
 
-<img width="648" height="808" alt="image" src="https://github.com/user-attachments/assets/8db414eb-c9f5-4271-98a5-54ddae288ba9" />
+<img width="535" height="809" alt="image" src="https://github.com/user-attachments/assets/a710819f-3984-4056-b103-3255c4af3bec" />
+
 
 After the class started, I did not know about feature engineering. Our instructor, Simaram, explained it, so I got this book to learn more. I study it once in a while because it is not one of my core books.
 
