@@ -25,5 +25,8 @@ I have completed the following labs:
 I have completed the following assignment:
 <img width="592" height="51" alt="image" src="https://github.com/user-attachments/assets/7877c162-cd49-4929-bfb6-6a115358b478" />
 
+These are the rest of the projects and tasks in the class:
+<img width="442" height="93" alt="image" src="https://github.com/user-attachments/assets/30fc74d8-d34f-4cdb-a22d-9a001654d4bb" />
+
 
 
