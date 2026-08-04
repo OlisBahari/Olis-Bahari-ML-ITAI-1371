@@ -20,5 +20,6 @@ After the class started, I did not know about feature engineering. Our instructo
 
 I had to read **The Markdown Guide** in order to learn the lightweight markup language that we use for formatting elements in plaintext text documents on GitHub
 and Visual Studio Code.
+
 4. **The Markdown Guide**
 <img width="637" height="832" alt="image" src="https://github.com/user-attachments/assets/8e1fb6c1-9cda-471b-aec3-8d8f82aa9e44" />
