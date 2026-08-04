@@ -22,13 +22,18 @@ However, accuracy alone does not provide a comprehensive assessment. The classif
 
 Overall, the model demonstrated satisfactory performance, though it is essential to consider both its strengths and limitations. Given additional time, I would pursue further feature engineering and compare Logistic Regression with alternative models such as Decision Trees or Random Forests to potentially improve predictive accuracy.
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e84a296b-d346-4b4d-adf1-b0d6b5d8c25b" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0bb8c4d5-db9b-4167-aae0-6198ab7543b1" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/16e616ba-5133-40b9-84c8-e58c23c63262" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1c5c0066-6dfb-476e-9a8d-55b950363012" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5d3dcf77-3195-4978-a2b2-b2523fe8a63f" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/84121fa9-52c7-4876-ad41-2568e0774757" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d877ad53-8126-4215-a12f-8edd23475c41" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d9a17613-4b25-4fe4-8ba3-5abaede2029f" />
+
+
+
+
+
 
 
 
