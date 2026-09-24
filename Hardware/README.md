@@ -8,5 +8,7 @@ If you have kids, encourage them to learn about AI, machine learning, deep learn
 
 <img width="767" height="736" alt="image" src="https://github.com/user-attachments/assets/755dcbd2-4825-4a80-be78-493b9b6978df" />
 
+<img width="2048" height="1153" alt="image" src="https://github.com/user-attachments/assets/b1257ee3-e14a-4536-95b0-a69e72dc132a" />
+
 
 <img width="908" height="784" alt="image" src="https://github.com/user-attachments/assets/b989045d-a4d9-4fe6-a38a-627c4c754858" />
